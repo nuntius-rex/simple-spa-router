@@ -1,0 +1,29 @@
+.spa_menu{
+  background-color: #454545;
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.spa_menu li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+
+a{
+  color:#fff;
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+footer{
+  background-color: #454545;
+  padding: 10px;
+  text-align: center;
+  position:absolute;
+  bottom:0;
+  width: 96%;
+}
