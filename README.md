@@ -1,4 +1,4 @@
-# Simple SPA Router
+# JavaScript Simple SPA Router (No Front End Framework)
 
 This code demo was to create a simple SPA (Single Page Application) Router with plain JavaScript using no front end framework.
 
