@@ -7,7 +7,7 @@ app.use(express.static(__dirname+'/public'));
 
 //Default SPA Page - all page request will default to index.html:
 app.get('/*',function(req,res){
-  res.sendFile(__dirname+'/index.html');
+  res.sendFile(__dirname+'/public/index.html');
 });
 
 app.listen(port);
