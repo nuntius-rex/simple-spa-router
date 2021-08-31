@@ -4,7 +4,7 @@ This code demo was to create a simple SPA (Single Page Application) Router with 
 
 I was inspired by the article located [here](https://medium.com/altcampus/implementing-simple-spa-routing-using-vanilla-javascript-53abe399bf3c) but wanted to take it a little further, adding dynamic menu event listening and a simple NodeJS/Express back end. At 1.7MB, this is a tremendous starting point, when you don't require the bulk of an enterprise-level front end framework.
 
-NOTE: [SEE ALSO IN ES6 MODULES](https://github.com/nuntius-rex/simple-spa-router-es6.git)
+NOTE: [SEE ALSO IN VERSION USING ES6 MODULES](https://github.com/nuntius-rex/simple-spa-router-es6.git)
 
 ![Alt](/public/img/screenshot.png "Screenshot of Simple SPA Router")
 
